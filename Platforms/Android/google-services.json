@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65296406505",
+    "project_id": "mas-a0b4c",
+    "storage_bucket": "mas-a0b4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65296406505:android:848ef8f078c3ebd9a2dd78",
+        "android_client_info": {
+          "package_name": "com.companyname.unomas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOb0r9r7-yo6091ZjCQVglAqM-nTOvCX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

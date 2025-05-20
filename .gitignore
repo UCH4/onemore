@@ -1,0 +1,132 @@
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.atsln
+*.njsproj
+*.webproj
+*.sln.docstates
+*.bak
+*.sql
+*.vstemplate
+*.pdb
+*.obj
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+
+# .NET and MAUI
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+.idea/
+*.user
+*.bak
+*.suo
+*.zip
+*.nupkg
+.nuget/
+packages/
+
+# macOS specific
+.DS_Store
+.localized
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# MAUI specific (redundant with .NET but good to be explicit)
+obj/
+bin/
+.netrc
+*.swp
+*.swo
+*.old
+*.bak
+*.orig
+*.rej
+*.scc
+*.un~
+*.tmp
+*.log
+*.db
+*.sqlite
+*.sqlite-journal
+*.userprefs
+*.pid
+*.pid.lock
+.project
+.settings
+.classpath
+.buildpath
+.project
+.settings
+.classpath
+.buildpath
+*.csproj.user
+*.fsproj.user
+*.vbproj.user
+*.sln.docstates
+*.vspixlog
+*.vsps
+*.sap
+
+# Android specific
+build/
+local.properties
+*.ap_
+*.apk
+*.aab
+*.dex
+*.iml
+*.class
+*.so
+*.aar
+*.json # Be careful if you have your google-services.json in a non-standard place.
+      # If Platforms/Android/google-services.json is essential for your build
+      # make sure it's not excluded by a general *.json.
+      # For your case, it should be fine as it's specifically listed.
+*.jks
+*.keystore
+
+# iOS specific
+Pods/
+build/
+*.app
+*.ipa
+*.xcarchive
+*.xcuserstate
+*.xcscheme
+*.xccheckout
+*.xcworkspace
+*.xcuserdatad
+*.tbd
+*.pbxuser
+*.perspectivev3
+*.moved-aside
+*.framework
+*.dSYM
+
+# Windows specific
+*.exe
+*.dll
+*.pdb
+*.winmd
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
